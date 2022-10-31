@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "telegram-echo-bot",
+            "script": "npm",
+            "args": "start"
+        }
+    ]
+}
